@@ -9,4 +9,4 @@ Sri Akhil Mylavarapu    |   ES19BTECH11014
 
 ![Alt text](Flowchart_TPR.png?raw=true "The Model Structure")
 
-Read the report at [a relative link](CC_Inference_Project_Report.pdf)
+Read the report [here](CC_Inference_Project_Report.pdf) for further insights.
